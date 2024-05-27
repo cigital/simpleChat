@@ -113,9 +113,9 @@ También podemos pasar argumentos (IP y puertos) de la siguiente manera:
   ```console
   $ python3 [nombreArchivo].py --ip [=ip_a_escuchar | ip_a_escuchar] --port [=puerto_a_escuchar | puerto_a_escuchar]
 
-[ Las opciones que hay són: ]
-- '--ip': Especifica la dirección IP en la que el servidor estará escuchando conexiones. Puede proporcionarse tanto en formato de argumento de línea de comandos (--ip=127.0.0.1) como en formato de valor de argumento (--ip 127.0.0.1).
-- '--port': Define el puerto en el que el servidor estará escuchando conexiones. Al igual que --ip, puede proporcionarse tanto en formato de argumento de línea de comandos (--port=123456) como en formato de valor de argumento (--port 123456).
+Las opciones que hay són:
+- '**--ip** ': Especifica la dirección IP en la que el servidor estará escuchando conexiones. Puede proporcionarse tanto en formato de argumento de línea de comandos (--ip=127.0.0.1) como en formato de valor de argumento (--ip 127.0.0.1).
+- '**--port**': Define el puerto en el que el servidor estará escuchando conexiones. Al igual que --ip, puede proporcionarse tanto en formato de argumento de línea de comandos (--port=123456) como en formato de valor de argumento (--port 123456).
 
 ---
 
@@ -142,8 +142,11 @@ Este proyecto está protegido bajo la licencia MIT. Para obtener más detalles, 
 ---
 
 ## Referencias
-
-- Enumere aquí los recursos, contribuyentes, inspiración, etc.
+- [socketserver](https://docs.python.org/3/library/socketserver.html)
+- [socket](https://docs.python.org/3/library/socket.html)
+- [sqlite3](https://docs.python.org/3/library/sqlite3.html)
+- [threading](https://docs.python.org/3/library/threading.html)
+- [pickle](https://docs.python.org/3/library/pickle.html)
 
 [**Devolver**](#-resumen)
 
