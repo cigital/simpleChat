@@ -104,7 +104,7 @@
 
 > Desde en el dispositvo cliente ejecute el archivo de cliente, con:
 > ```console
-> $ python3 cliente.py
+> $ python3 client.py
 > ```
 > Introduce los datos que te vaya pidiendo, como la adreça ip de destino i el puerto, del servidor.
 ---
