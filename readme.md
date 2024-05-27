@@ -159,7 +159,7 @@
 
 ## Licencia
 
-Este proyecto está protegido bajo la licencia [SELECT-A-LICENSE](https://choosealicense.com/licenses). Para obtener más detalles, consulte el archivo [LICENCIA](https://choosealicense.com/licenses/).
+Este proyecto está protegido bajo la licencia [LIC). Para obtener más detalles, consulte el archivo [LICENSE](LICENSE).
 
 ---
 
