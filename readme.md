@@ -5,7 +5,7 @@
     <h1 align="center">SIMPLECHAT</h1>
 </p>
 <p align="center">
-    <em><code>► INSERTAR-TEXTO-AQUÍ</code></em>
+    <em><code>Un proyecto de chat cliente-servidor básico.</code></em>
 </p>
 <p align="center">
 	<img src="https://img.shields.io/github/license/cigital/simpleChat?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
@@ -38,15 +38,18 @@
 
 ##  Visión General
 
-<code>► INSERTAR-TEXTO-AQUÍ</code>
+<code> El proyecto simpleChat consta de dos scripts de Python: uno para el cliente y otro para el servidor de un chat. El cliente se conecta al servidor utilizando sockets y permite a los usuarios enviar y recibir mensajes en una interfaz de línea de comandos. El servidor gestiona las conexiones de los clientes, almacena los mensajes en una base de datos SQLite y ofrece funcionalidades de control, como ver la lista de clientes conectados y enviar mensajes globales. En resumen, el proyecto proporciona una plataforma básica de chat cliente-servidor con capacidades de gestión y control. </code>
 
 ---
 
 ##  Características
 
-<code>► INSERTAR-TEXTO-AQUÍ</code>
+- Permite la comunicación bidireccional entre múltiples clientes y un servidor.
+- Almacena los mensajes en una base de datos SQLite para persistencia.
+- Ofrece funcionalidades de control, como ver la lista de clientes conectados y enviar mensajes globales desde el servidor.
 
 ---
+
 
 ##  Estructura del Repositorio
 
@@ -56,7 +59,7 @@
     └── server.py
 ```
 
-## Módulos
+## Archivos
 
 <details closed><summary>.</summary>
 
@@ -159,7 +162,7 @@
 
 ## Licencia
 
-Este proyecto está protegido bajo la licencia [LIC). Para obtener más detalles, consulte el archivo [LICENSE](LICENSE).
+Este proyecto está protegido bajo la licencia MIT. Para obtener más detalles, consulte el archivo [LICENSE](LICENSE).
 
 ---
 
