@@ -87,12 +87,10 @@
 > ```console
 > $ git clone https://github.com/cigital/simpleChat
 > ```
-> Introduce los datos que te vaya pidiendo, como la adreça ip de destino.
 > 2. Cambia al directorio del proyecto:
 > ```console
 > $ cd simpleChat
 > ```
-> Introduce los datos que te vaya pidiendo, como la adreça ip de destino.
 
 ### Uso
 
@@ -102,10 +100,13 @@
 > ```console
 > $ python3 servidor.py
 > ```
+> Introduce los datos que te vaya pidiendo, como la adreça ip de destino al qual escuchar.
+
 > Desde en el dispositvo cliente ejecute el archivo de cliente, con:
 > ```console
 > $ python3 cliente.py
 > ```
+> Introduce los datos que te vaya pidiendo, como la adreça ip de destino i el puerto, del servidor.
 ---
 
 ## Hoja de ruta del proyecto
