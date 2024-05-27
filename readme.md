@@ -148,6 +148,6 @@ Este proyecto está protegido bajo la licencia MIT. Para obtener más detalles, 
 - [threading](https://docs.python.org/3/library/threading.html)
 - [pickle](https://docs.python.org/3/library/pickle.html)
 
-[**Devolver**](#-resumen)
+[**Volver arriba**](#-resumen)
 
 ---
