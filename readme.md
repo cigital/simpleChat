@@ -147,6 +147,7 @@ Este proyecto está protegido bajo la licencia MIT. Para obtener más detalles, 
 - [sqlite3](https://docs.python.org/3/library/sqlite3.html)
 - [threading](https://docs.python.org/3/library/threading.html)
 - [pickle](https://docs.python.org/3/library/pickle.html)
+- 
 
 [**Volver arriba**](#-resumen)
 
