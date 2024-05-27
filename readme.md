@@ -118,37 +118,8 @@
 ---
 
 ## Contribuciones
+En este momento, no estamos aceptando contribuciones adicionales. ¡Gracias por tu interés!
 
-¡Las contribuciones son bienvenidas! Aquí hay varias formas en las que puedes contribuir:
-
-- **[Reportar Problemas](https://github.com/cigital/simpleChat/issues)**: Informa de errores encontrados o registra solicitudes de funciones para el proyecto `simpleChat`.
-- **[Enviar Solicitudes de Extracción](https://github.com/cigital/simpleChat/blob/main/CONTRIBUTING.md)**: Revisa las solicitudes de extracción abiertas y envía tus propias solicitudes de extracción.
-- **[Unirse a las Discusiones](https://github.com/cigital/simpleChat/discussions)**: Comparte tus ideas, proporciona comentarios o haz preguntas.
-
-<details closed>
-<summary>Directrices para contribuir</summary>
-
-1. **Clona el Repositorio**: Comienza por hacer un "fork" del repositorio del proyecto en tu cuenta de GitHub.
-
-2. **Clonar Localmente**: Clona el repositorio bifurcado en tu máquina local utilizando un cliente de git.
-   ```sh
-   git clone https://github.com/cigital/simpleChat
-   ```
-3. **Crear una nueva rama**: Trabaje siempre en una nueva rama, dándole un nombre descriptivo.
-   ```sh
-   git checkout -b nueva-caracteristica-x
-   ```
-4. **Realice sus cambios**: desarrolle y pruebe sus cambios localmente.
-5. **Confirma tus cambios**: confirma con un mensaje claro que describa tus actualizaciones.
-    ```sh
-    git commit -m 'Nueva característica implementada x.'
-    ```
-6. **Enviar a github**: envía los cambios a tu repositorio bifurcado.
-    ```sh
-    git push origen nueva-característica-x
-    ```
-7. **Envíe una solicitud de extracción**: cree un PR en el repositorio del proyecto original. Describe claramente los cambios y sus motivaciones.
-8. **Revisión**: Una vez que su PR sea revisado y aprobado, se fusionará con la rama principal. ¡Felicitaciones por tu contribución!
 </details>
 
 ---
