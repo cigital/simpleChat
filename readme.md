@@ -38,7 +38,7 @@
 
 ##  Visión general
 
-<code> El proyecto simpleChat consta de dos scripts de Python: uno para el cliente y otro para el servidor de un chat. El cliente se conecta al servidor utilizando sockets y permite a los usuarios enviar y recibir mensajes en una interfaz de línea de comandos. El servidor gestiona las conexiones de los clientes, almacena los mensajes en una base de datos SQLite y ofrece funcionalidades de control, como ver la lista de clientes conectados y enviar mensajes globales. En resumen, el proyecto proporciona una plataforma básica de chat cliente-servidor con capacidades de gestión y control. </code>
+<code> El proyecto simpleChat consta de dos scripts de Python: uno para el cliente y otro para el servidor de un chat. El cliente se conecta al servidor utilizando sockets y permite a los usuarios enviar y recibir mensajes en una interfaz de línea de comandos. El servidor gestiona las conexiones de los clientes, almacena los mensajes en una base de datos SQLite y ofrece funcionalidades de control, como ver la lista de clientes conectados y enviar mensajes globales. </code>
 
 ---
 
