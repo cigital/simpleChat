@@ -65,8 +65,8 @@
 
 | Archivo                                                                   | Resumen                         |
 | ---                                                                       | ---                             |
-| [cliente.py](https://github.com/cigital/simpleChat/blob/master/client.py) | <code>► INSERTAR-TEXTO-AQUÍ</code> |
-| [servidor.py](https://github.com/cigital/simpleChat/blob/master/server.py) | <code>► INSERTAR-TEXTO-AQUÍ</code> |
+| [cliente.py](https://github.com/cigital/simpleChat/blob/master/client.py) | <code>► El archivo el qual deberá ejecutar el usuario para actuar como client.</code> |
+| [servidor.py](https://github.com/cigital/simpleChat/blob/master/server.py) | <code>► El archivo el qual se debe ejecutar primero para tener el servidor activo.</code> |
 
 </details>
 
