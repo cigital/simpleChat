@@ -87,10 +87,12 @@
 > ```console
 > $ git clone https://github.com/cigital/simpleChat
 > ```
+> Introduce los datos que te vaya pidiendo, como la adreça ip de destino.
 > 2. Cambia al directorio del proyecto:
 > ```console
 > $ cd simpleChat
 > ```
+> Introduce los datos que te vaya pidiendo, como la adreça ip de destino.
 
 ### Uso
 
