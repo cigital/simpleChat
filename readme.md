@@ -103,13 +103,6 @@
 > $ python main.py
 > ```
 
-### Pruebas
-
-> Ejecuta la suite de pruebas utilizando el siguiente comando:
-> ```console
-> $ pytest
-> ```
-
 ---
 
 ## Hoja de ruta del proyecto
