@@ -25,13 +25,13 @@
 - [ Características](#características)
 - [ Estructura del Repositorio](#estructura-del-repositorio)
 - [ Archivos](#archivos)
-- [ Empezando](#comenzando)
+- [ Empezando](#empezando)
   - [ Instalación](#instalación)
   - [ Uso](#uso)
 - [ Hoja de Ruta del Proyecto](#hoja-de-ruta-del-proyecto)
 - [ Contribuciones](#contribuciones)
 - [ Licencia](#licencia)
-- [ Agradecimientos](#referencias)
+- [ Referencias](#referencias)
 </details>
 <hr>
 
@@ -136,11 +136,12 @@ En este momento, no estamos aceptando contribuciones adicionales. ¡Gracias por 
 
 ## Licencia
 
-Este proyecto está protegido bajo la licencia MIT. Para obtener más detalles, consulte el archivo [LICENSE](LICENSE).
+Este proyecto está protegido bajo la licencia MIT. Para obtener más detalles, consulte el archivo [LICENCE](LICENCE).
 
 ---
 
 ## Referencias
+A continuación tenemos páginas donde podemos profundizar mas para entender cómo funciona el codigo:
 - [socketserver](https://docs.python.org/3/library/socketserver.html)
 - [socket](https://docs.python.org/3/library/socket.html)
 - [sqlite3](https://docs.python.org/3/library/sqlite3.html)
