@@ -61,7 +61,7 @@
 
 ## Archivos
 
-<details closed><summary>.</summary>
+<details closed><summary>Abreme</summary>
 
 | Archivo                                                                   | Resumen                         |
 | ---                                                                       | ---                             |
@@ -76,7 +76,7 @@
 
 **Requisitos del sistema:**
 
-* **Python**: `versión x.y.z`
+* **Versión de Python testeada**: `versión x.y.z`
 
 ### Instalación
 
@@ -118,9 +118,9 @@
 
 ## Hoja de ruta del proyecto
 
-- [X] `► INSERTAR-TAREA-1`
-- [ ] `► INSERTAR-TAREA-2`
-- [ ] `► ...`
+- [X] `► Añadir funcionalidad de chat`
+- [ ] `► Añadir funcionalidad de enviar imágenes`
+- [ ] `► Encriptación básica del chat`
 
 ---
 
