@@ -93,10 +93,6 @@
 > $ cd simpleChat
 > ```
 >
-> 3. Instala las dependencias:
-> ```console
-> $ pip install -r requirements.txt
-> ```
 
 ### Uso
 
