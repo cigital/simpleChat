@@ -14,25 +14,24 @@
 	<img src="https://img.shields.io/github/languages/count/cigital/simpleChat?style=default&color=0080ff" alt="repo-language-count">
 <p>
 <p align="center">
-	<!-- default option, no dependency badges. -->
+<!-- default option, no dependency badges. -->
 </p>
 
 <br><!-- TABLA DE CONTENIDOS -->
 <details>
   <summary>Tabla de contenidos</summary><br>
 
-- [ Visión General](#-visión-general)
-- [ Características](#-características)
-- [ Estructura del Repositorio](#-estructura-del-repositorio)
-- [ Módulos](#-módulos)
-- [ Empezando](#-empezando)
-  - [ Instalación](#-instalación)
-  - [ Uso](#-uso)
-  - [ Pruebas](#-pruebas)
-- [ Hoja de Ruta del Proyecto](#-hoja-de-ruta-del-proyecto)
-- [ Contribuciones](#-contribuciones)
-- [ Licencia](#-licencia)
-- [ Agradecimientos](#-agradecimientos)
+- [ Visión General](#visión-general)
+- [ Características](#características)
+- [ Estructura del Repositorio](#estructura-del-repositorio)
+- [ Archivos](#archivos)
+- [ Empezando](#comenzando)
+  - [ Instalación](#instalación)
+  - [ Uso](#uso)
+- [ Hoja de Ruta del Proyecto](#hoja-de-ruta-del-proyecto)
+- [ Contribuciones](#contribuciones)
+- [ Licencia](#licencia)
+- [ Agradecimientos](#referencias)
 </details>
 <hr>
 
@@ -72,7 +71,7 @@
 
 ---
 
-## Comenzando
+## Empezando
 
 **Requisitos del sistema:**
 
