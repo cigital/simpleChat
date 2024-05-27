@@ -76,7 +76,7 @@
 
 **Requisitos del sistema:**
 
-* **Versión de Python testeada**: `versión x.y.z`
+* **Versión de Python testeada**: `3.10.12`
 
 ### Instalación
 
