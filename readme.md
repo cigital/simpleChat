@@ -5,7 +5,7 @@
     <h1 align="center">SIMPLECHAT</h1>
 </p>
 <p align="center">
-    <em><code>► INSERT-TEXT-HERE</code></em>
+    <em><code>► INSERTAR-TEXTO-AQUÍ</code></em>
 </p>
 <p align="center">
 	<img src="https://img.shields.io/github/license/cigital/simpleChat?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
@@ -17,38 +17,38 @@
 	<!-- default option, no dependency badges. -->
 </p>
 
-<br><!-- TABLE OF CONTENTS -->
+<br><!-- TABLA DE CONTENIDOS -->
 <details>
-  <summary>Table of Contents</summary><br>
+  <summary>Tabla de Contenidos</summary><br>
 
-- [ Overview](#-overview)
-- [ Features](#-features)
-- [ Repository Structure](#-repository-structure)
-- [ Modules](#-modules)
-- [ Getting Started](#-getting-started)
-  - [ Installation](#-installation)
-  - [ Usage](#-usage)
-  - [ Tests](#-tests)
-- [ Project Roadmap](#-project-roadmap)
-- [ Contributing](#-contributing)
-- [ License](#-license)
-- [ Acknowledgments](#-acknowledgments)
+- [ Visión General](#-visión-general)
+- [ Características](#-características)
+- [ Estructura del Repositorio](#-estructura-del-repositorio)
+- [ Módulos](#-módulos)
+- [ Empezando](#-empezando)
+  - [ Instalación](#-instalación)
+  - [ Uso](#-uso)
+  - [ Pruebas](#-pruebas)
+- [ Hoja de Ruta del Proyecto](#-hoja-de-ruta-del-proyecto)
+- [ Contribuciones](#-contribuciones)
+- [ Licencia](#-licencia)
+- [ Agradecimientos](#-agradecimientos)
 </details>
 <hr>
 
-##  Overview
+##  Visión General
 
-<code>► INSERT-TEXT-HERE</code>
-
----
-
-##  Features
-
-<code>► INSERT-TEXT-HERE</code>
+<code>► INSERTAR-TEXTO-AQUÍ</code>
 
 ---
 
-##  Repository Structure
+##  Características
+
+<code>► INSERTAR-TEXTO-AQUÍ</code>
+
+---
+
+##  Estructura del Repositorio
 
 ```sh
 └── simpleChat/
@@ -56,128 +56,117 @@
     └── server.py
 ```
 
----
-
-##  Modules
+## Módulos
 
 <details closed><summary>.</summary>
 
-| File                                                                     | Summary                         |
-| ---                                                                      | ---                             |
-| [client.py](https://github.com/cigital/simpleChat/blob/master/client.py) | <code>► INSERT-TEXT-HERE</code> |
-| [server.py](https://github.com/cigital/simpleChat/blob/master/server.py) | <code>► INSERT-TEXT-HERE</code> |
+| Archivo                                                                   | Resumen                         |
+| ---                                                                       | ---                             |
+| [cliente.py](https://github.com/cigital/simpleChat/blob/master/client.py) | <code>► INSERTAR-TEXTO-AQUÍ</code> |
+| [servidor.py](https://github.com/cigital/simpleChat/blob/master/server.py) | <code>► INSERTAR-TEXTO-AQUÍ</code> |
 
 </details>
 
 ---
 
-##  Getting Started
+## Comenzando
 
-**System Requirements:**
+**Requisitos del sistema:**
 
-* **Python**: `version x.y.z`
+* **Python**: `versión x.y.z`
 
-###  Installation
+### Instalación
 
-<h4>From <code>source</code></h4>
+<h4>Desde <code>fuente</code></h4>
 
-> 1. Clone the simpleChat repository:
+> 1. Clona el repositorio de simpleChat:
 >
 > ```console
 > $ git clone https://github.com/cigital/simpleChat
 > ```
 >
-> 2. Change to the project directory:
+> 2. Cambia al directorio del proyecto:
 > ```console
 > $ cd simpleChat
 > ```
 >
-> 3. Install the dependencies:
+> 3. Instala las dependencias:
 > ```console
 > $ pip install -r requirements.txt
 > ```
 
-###  Usage
+### Uso
 
-<h4>From <code>source</code></h4>
+<h4>Desde <code>fuente</code></h4>
 
-> Run simpleChat using the command below:
+> Ejecuta simpleChat usando el siguiente comando:
 > ```console
 > $ python main.py
 > ```
 
-###  Tests
+### Pruebas
 
-> Run the test suite using the command below:
+> Ejecuta la suite de pruebas utilizando el siguiente comando:
 > ```console
 > $ pytest
 > ```
 
 ---
 
-##  Project Roadmap
+## Hoja de ruta del proyecto
 
-- [X] `► INSERT-TASK-1`
-- [ ] `► INSERT-TASK-2`
+- [X] `► INSERTAR-TAREA-1`
+- [ ] `► INSERTAR-TAREA-2`
 - [ ] `► ...`
 
 ---
 
-##  Contributing
+## Contribuciones
 
-Contributions are welcome! Here are several ways you can contribute:
+¡Las contribuciones son bienvenidas! Aquí hay varias formas en las que puedes contribuir:
 
-- **[Report Issues](https://github.com/cigital/simpleChat/issues)**: Submit bugs found or log feature requests for the `simpleChat` project.
-- **[Submit Pull Requests](https://github.com/cigital/simpleChat/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
-- **[Join the Discussions](https://github.com/cigital/simpleChat/discussions)**: Share your insights, provide feedback, or ask questions.
+- **[Reportar Problemas](https://github.com/cigital/simpleChat/issues)**: Informa de errores encontrados o registra solicitudes de funciones para el proyecto `simpleChat`.
+- **[Enviar Solicitudes de Extracción](https://github.com/cigital/simpleChat/blob/main/CONTRIBUTING.md)**: Revisa las solicitudes de extracción abiertas y envía tus propias solicitudes de extracción.
+- **[Unirse a las Discusiones](https://github.com/cigital/simpleChat/discussions)**: Comparte tus ideas, proporciona comentarios o haz preguntas.
 
 <details closed>
-<summary>Contributing Guidelines</summary>
+<summary>Directrices para Contribuir</summary>
 
-1. **Fork the Repository**: Start by forking the project repository to your github account.
-2. **Clone Locally**: Clone the forked repository to your local machine using a git client.
+1. **Clona el Repositorio**: Comienza por hacer un "fork" del repositorio del proyecto en tu cuenta de GitHub.
+
+2. **Clonar Localmente**: Clona el repositorio bifurcado en tu máquina local utilizando un cliente de git.
    ```sh
    git clone https://github.com/cigital/simpleChat
    ```
-3. **Create a New Branch**: Always work on a new branch, giving it a descriptive name.
+3. **Crear una nueva rama**: Trabaje siempre en una nueva rama, dándole un nombre descriptivo.
    ```sh
-   git checkout -b new-feature-x
+   git checkout -b nueva-caracteristica-x
    ```
-4. **Make Your Changes**: Develop and test your changes locally.
-5. **Commit Your Changes**: Commit with a clear message describing your updates.
-   ```sh
-   git commit -m 'Implemented new feature x.'
-   ```
-6. **Push to github**: Push the changes to your forked repository.
-   ```sh
-   git push origin new-feature-x
-   ```
-7. **Submit a Pull Request**: Create a PR against the original project repository. Clearly describe the changes and their motivations.
-8. **Review**: Once your PR is reviewed and approved, it will be merged into the main branch. Congratulations on your contribution!
-</details>
-
-<details closed>
-<summary>Contributor Graph</summary>
-<br>
-<p align="center">
-   <a href="https://github.com{/cigital/simpleChat/}graphs/contributors">
-      <img src="https://contrib.rocks/image?repo=cigital/simpleChat">
-   </a>
-</p>
+4. **Realice sus cambios**: desarrolle y pruebe sus cambios localmente.
+5. **Confirma tus cambios**: confirma con un mensaje claro que describa tus actualizaciones.
+    ```sh
+    git commit -m 'Nueva característica implementada x.'
+    ```
+6. **Enviar a github**: envía los cambios a tu repositorio bifurcado.
+    ```sh
+    git push origen nueva-característica-x
+    ```
+7. **Envíe una solicitud de extracción**: cree un PR en el repositorio del proyecto original. Describe claramente los cambios y sus motivaciones.
+8. **Revisión**: Una vez que su PR sea revisado y aprobado, se fusionará con la rama principal. ¡Felicitaciones por tu contribución!
 </details>
 
 ---
 
-##  License
+## Licencia
 
-This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
+Este proyecto está protegido bajo la licencia [SELECT-A-LICENSE](https://choosealicense.com/licenses). Para obtener más detalles, consulte el archivo [LICENCIA](https://choosealicense.com/licenses/).
 
 ---
 
-##  Acknowledgments
+## Agradecimientos
 
-- List any resources, contributors, inspiration, etc. here.
+- Enumere aquí los recursos, contribuyentes, inspiración, etc.
 
-[**Return**](#-overview)
+[**Devolver**](#-resumen)
 
 ---
