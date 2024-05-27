@@ -136,7 +136,7 @@ En este momento, no estamos aceptando contribuciones adicionales. ¡Gracias por 
 
 ## Licencia
 
-Este proyecto está protegido bajo la licencia MIT. Para obtener más detalles, consulte el archivo [LICENCE](LICENCE).
+Este proyecto está protegido bajo la licencia MIT. Para obtener más detalles, consulte el archivo [LICENSE](LICENSE).
 
 ---
 
