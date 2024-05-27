@@ -82,27 +82,28 @@
 
 <h4>Desde <code>fuente</code></h4>
 
-> 1. Clona el repositorio de simpleChat:
+> 1. Clona el repositorio de simpleChat tanto en el dispositivo servidor como cliente:
 >
 > ```console
 > $ git clone https://github.com/cigital/simpleChat
 > ```
->
 > 2. Cambia al directorio del proyecto:
 > ```console
 > $ cd simpleChat
 > ```
->
 
 ### Uso
 
 <h4>Desde <code>fuente</code></h4>
 
-> Ejecuta simpleChat usando el siguiente comando:
+> Ejecuta el archivo del servidor desde el dispositivo que actuara como servidor, usando el siguiente comando:
 > ```console
-> $ python main.py
+> $ python3 servidor.py
 > ```
-
+> Desde en el dispositvo cliente ejecute el archivo de cliente, con:
+> ```console
+> $ python3 cliente.py
+> ```
 ---
 
 ## Hoja de ruta del proyecto
