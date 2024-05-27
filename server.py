@@ -421,12 +421,12 @@ def main():
             print("\nBye.")
         except Exception as e:
             print(f"Error {e}")
-            print("""Something get wrong while creating server object, maybe you didn't put correcty the data. Here's an example:
-                IPv4 address: 127.0.0.1
-                Port: 12345
+            print(""" Algo salió mal al crear el objeto del servidor, tal vez no ingresaste correctamente los datos. He aquí un ejemplo:
+                 Dirección IPv4: 127.0.0.1
+                 Puerto: 12345
                         
-            Or try another port.
-            Try again. """)
+             O prueba con otro puerto.
+             """)
 
 if __name__=="__main__":
     main()
