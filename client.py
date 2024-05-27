@@ -139,10 +139,10 @@ if __name__ == "__main__":
             cliente = ClienteSocket(ipv4_address, port)
         except Exception as e:
             print(f"Error {e}")
-            print("""Error while creating client object, maybe you didn't put correcty the data. Example:
-                    IPv4 address: 127.0.0.1
-                    Port: 12345
+            print("""Error al crear el objeto de cliente, tal vez no ingresaste correctamente los datos. Ejemplo:
+                     Dirección IPv4: 127.0.0.1
+                     Puerto: 12345
                 
-                Or try another port.
-                Try again.
+                 O prueba con otro puerto.
+                 Intentar otra vez.
                 """)
