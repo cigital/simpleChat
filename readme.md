@@ -5,7 +5,7 @@
     <h1 align="center">CHAT SIMPLE</h1>
 </p>
 <p align="center">
-    <em><code>Un proyecto de chat cliente-servidor local básico.</code></em>
+    Un proyecto de chat cliente-servidor local básico.
 </p>
 <p align="center">
 	<img src="https://img.shields.io/github/license/cigital/simpleChat?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
@@ -37,7 +37,7 @@
 
 ##  Visión general
 
-<code> El proyecto simpleChat consta de dos scripts de Python: uno para el cliente y otro para el servidor de un chat. El cliente se conecta al servidor utilizando sockets y permite a los usuarios enviar y recibir mensajes en una interfaz de línea de comandos. El servidor gestiona las conexiones de los clientes, almacena los mensajes en una base de datos SQLite y ofrece funcionalidades de control, como ver la lista de clientes conectados y enviar mensajes globales. </code>
+El proyecto simpleChat consta de dos scripts de Python: uno para el cliente y otro para el servidor de un chat. El cliente se conecta al servidor utilizando sockets y permite a los usuarios enviar y recibir mensajes en una interfaz de línea de comandos. El servidor gestiona las conexiones de los clientes, almacena los mensajes en una base de datos SQLite y ofrece funcionalidades de control, como ver la lista de clientes conectados y enviar mensajes globales.
 
 ---
 
@@ -121,9 +121,9 @@ Las opciones que hay són:
 
 ## Hoja de ruta del proyecto
 
-- [X] `► Añadir funcionalidad de chat`
-- [ ] `► Añadir funcionalidad de enviar imágenes`
-- [ ] `► Encriptación básica del chat`
+- [X] ► Añadir funcionalidad de chat
+- [ ] ► Añadir funcionalidad de enviar imágenes
+- [ ] ► Encriptación básica del chat
 
 ---
 
@@ -142,12 +142,11 @@ Este proyecto está protegido bajo la licencia MIT. Para obtener más detalles, 
 
 ## Referencias
 A continuación tenemos páginas donde podemos profundizar mas para entender cómo funciona el codigo:
-- [socketserver](https://docs.python.org/3/library/socketserver.html)
-- [socket](https://docs.python.org/3/library/socket.html)
-- [sqlite3](https://docs.python.org/3/library/sqlite3.html)
-- [threading](https://docs.python.org/3/library/threading.html)
-- [pickle](https://docs.python.org/3/library/pickle.html)
-- 
+- [Documentación Socketserver](https://docs.python.org/3/library/socketserver.html)
+- [Documentación Socket](https://docs.python.org/3/library/socket.html)
+- [Documentación SQLite3](https://docs.python.org/3/library/sqlite3.html)
+- [Documentación Threading](https://docs.python.org/3/library/threading.html)
+- [Documentación Pickle](https://docs.python.org/3/library/pickle.html)
 
 [**Volver arriba**](#-resumen)
 
