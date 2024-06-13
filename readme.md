@@ -8,7 +8,8 @@
     Un proyecto de chat cliente-servidor local básico.
 </p>
 <p align="center">
-	<img src="https://img.shields.io/github/license/cigital/simpleChat?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
+	<!-- ![GitHub License](https://img.shields.io/github/license/cigital/simpleChat -->
+	<img src="https://img.shields.io/github/license/cigital/simpleChat?style=flat-square">
 	<img src="https://img.shields.io/github/last-commit/cigital/simpleChat?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
 	<img src="https://img.shields.io/github/languages/top/cigital/simpleChat?style=default&color=0080ff" alt="repo-top-language">
 	<img src="https://img.shields.io/github/languages/count/cigital/simpleChat?style=default&color=0080ff" alt="repo-language-count">
