@@ -60,12 +60,12 @@ El proyecto simpleChat consta de dos scripts de Python: uno para el cliente y ot
 
 ## Archivos
 
-<details closed><summary>Abreme</summary>
+<details closed><summary>Descripción archivos</summary>
 
 | Archivo                                                                   | Resumen                         |
 | ---                                                                       | ---                             |
-| [cliente.py](https://github.com/cigital/simpleChat/blob/master/client.py) | <code>► El archivo el qual deberá ejecutar el usuario para actuar como client.</code> |
-| [servidor.py](https://github.com/cigital/simpleChat/blob/master/server.py) | <code>► El archivo el qual se debe ejecutar primero para tener el servidor activo.</code> |
+| [cliente.py](https://github.com/cigital/simpleChat/blob/master/client.py) | ► El archivo el qual deberá ejecutar el usuario para actuar como client.</code> |
+| [servidor.py](https://github.com/cigital/simpleChat/blob/master/server.py) | ► El archivo el qual se debe ejecutar primero para tener el servidor activo. |
 
 </details>
 
@@ -113,8 +113,8 @@ También podemos pasar argumentos (IP y puertos) de la siguiente manera:
   $ python3 [nombreArchivo].py --ip [=ip_a_escuchar | ip_a_escuchar] --port [=puerto_a_escuchar | puerto_a_escuchar]
 
 Las opciones que hay són:
-- '**--ip** ': Especifica la dirección IP en la que el servidor estará escuchando conexiones. Puede proporcionarse tanto en formato de argumento de línea de comandos (--ip=127.0.0.1) como en formato de valor de argumento (--ip 127.0.0.1).
-- '**--port**': Define el puerto en el que el servidor estará escuchando conexiones. Al igual que --ip, puede proporcionarse tanto en formato de argumento de línea de comandos (--port=123456) como en formato de valor de argumento (--port 123456).
+- **--ip**: Especifica la dirección IP en la que el servidor estará escuchando conexiones. Puede proporcionarse tanto en formato de argumento de línea de comandos (--ip=127.0.0.1) como en formato de valor de argumento (--ip 127.0.0.1).
+- **--port**: Define el puerto en el que el servidor estará escuchando conexiones. Al igual que --ip, puede proporcionarse tanto en formato de argumento de línea de comandos (--port=123456) como en formato de valor de argumento (--port 123456).
 
 ---
 
