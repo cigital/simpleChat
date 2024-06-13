@@ -12,6 +12,8 @@
 	<img src="https://img.shields.io/github/last-commit/cigital/simpleChat?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
 	<img src="https://img.shields.io/github/languages/top/cigital/simpleChat?style=default&color=0080ff" alt="repo-top-language">
 	<img src="https://img.shields.io/github/languages/count/cigital/simpleChat?style=default&color=0080ff" alt="repo-language-count">
+	<img src="https://img.shields.io/github/repo-size/cigital/simpleChat">
+
 <p>
 <p align="center">
 <!-- default option, no dependency badges. -->
