@@ -8,11 +8,11 @@
     Un proyecto de chat cliente-servidor local básico.
 </p>
 <p align="center">
-	<img src="https://img.shields.io/github/license/cigital/simpleChat?style=flat-square">
-	<img src="https://img.shields.io/github/last-commit/cigital/simpleChat?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
+	<img src="https://img.shields.io/github/license/cigital/simpleChat?style=flat&color=red">
+	<img src="https://img.shields.io/github/last-commit/cigital/simpleChat?style=default&logo=git&logoColor=white&color=red" alt="last-commit">
 	<img src="https://img.shields.io/github/languages/top/cigital/simpleChat?style=default&color=0080ff" alt="repo-top-language">
-	<img src="https://img.shields.io/github/languages/count/cigital/simpleChat?style=flat" alt="repo-language-count">
-	<img src="https://img.shields.io/github/repo-size/cigital/simpleChat?style=flat">
+	<img src="https://img.shields.io/github/languages/count/cigital/simpleChat?style=flat&color=red" alt="repo-language-count">
+	<img src="https://img.shields.io/github/repo-size/cigital/simpleChat?style=flat&color=red">
 <p>
 <p align="center">
 <!-- default option, no dependency badges. -->
